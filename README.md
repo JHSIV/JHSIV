@@ -1,4 +1,5 @@
 I'm Henry Stadolnik, and I make games, pixel art, and sometimes forays into 3D!
+
 I've been publicly releasing games since 2017, doing both solo and collaborative work.
 I focus on programming but have a generalist skillset, handling design, writing, art, and even audio when necessary.
 For formal work I'm best versed in Unity and C#, but also have C++ and Unreal Engine experience. 
