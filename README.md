@@ -20,3 +20,5 @@ Twitter: https://twitter.com/Jusiv_
 itch.io: https://jusiv.itch.io/
 
 PICO-8 Forums: https://www.lexaloffle.com/bbs/?uid=24585
+
+LinkedIn: https://www.linkedin.com/in/jhsiv/
